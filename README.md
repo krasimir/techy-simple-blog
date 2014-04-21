@@ -1,4 +1,5 @@
-techy-simple-blog
+# A simple web blog build with [Techy](http://krasimir.github.io/techy/)
+
 =================
 
-An example of Techy (http://krasimir.github.io/techy/) based blog
+
