@@ -3,8 +3,8 @@ module.exports = function(api) {
 		h1: {
 			fz: '60px',
 			lh: '70px',
-			pad: '0 0 40px 0',
-			mar: '50px 0 30px 0',
+			pad: '0 0 20px 0',
+			mar: '30px 0 30px 0',
 			'@media all and (max-width: 600px)': {
 				fz: '40px',
 				lh: '40px',

@@ -11,11 +11,11 @@
 </head>
 <body>
     <div class="content">
-        <header><% template('partials/header.md') %></header>
         <div class="row">
             <div class="col-main"><% get('content') %></div>
             <div class="col-sidebar"><% template('partials/sidebar.md') %></div>
         </div>
+        <footer><% template('partials/footer.md') %></footer>
     </div>
 	<script src="<% get('paths').root %>themes/default/public/prism/prism.js"></script>
 	<script src="<% get('paths').root %>themes/default/public/scripts.js"></script>

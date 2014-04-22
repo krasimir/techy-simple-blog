@@ -11,10 +11,10 @@ module.exports = function(api) {
 
 		// text
 		font: "'Average Sans', sans-serif",
-		fontSize: '20px',
-		lowFontSize: '18px',
-		lineHeight: '34px',
-		lowLineHeight: '28px',
+		fontSize: '18px',
+		lowFontSize: '16px',
+		lineHeight: '26px',
+		lowLineHeight: '24px',
 
 		// layouts
 		layouts: {
