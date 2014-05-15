@@ -1,7 +1,7 @@
 ---
 date: 11-01-2014
 title: An article with code
-preface: Curabitur consequat ligula iaculis elit aliquet tincidunt. Proin aliquet massa venenatis, porta lorem a, hendrerit metus. Sed dapibus augue nibh. Proin imperdiet porttitor mauris vitae rutrum. Morbi rutrum risus mi, eget laoreet magna placerat in. Nullam fringilla pellentesque massa, sed imperdiet nunc interdum ac.
+preface: Curabitur consequat <img src="{siteURL}themes/default/public/img/favicon.png" /> ligula iaculis elit aliquet tincidunt. Proin aliquet massa venenatis, porta lorem a, hendrerit metus. Sed dapibus augue nibh. Proin imperdiet porttitor mauris vitae rutrum. Morbi rutrum risus mi, eget laoreet magna placerat in. Nullam fringilla pellentesque massa, sed imperdiet nunc interdum ac.
 tags:
   - javascript
   - nodejs
